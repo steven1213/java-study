@@ -1,4 +1,4 @@
-package com.steven.design.pattern.creational.factory.method;
+package com.steven.design.pattern.creational.factory_method;
 
 import org.apache.commons.lang3.StringUtils;
 
