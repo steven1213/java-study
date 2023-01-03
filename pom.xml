@@ -13,6 +13,11 @@
         <module>java-algorithm</module>
         <module>java-jdk-simple</module>
         <module>java-db-sharding</module>
+        <module>java-mq-emqx</module>
+        <module>java-mybatis-plus</module>
+        <module>java-test</module>
+        <module>java-web-test</module>
+        <module>java-spi</module>
     </modules>
 
     <properties>

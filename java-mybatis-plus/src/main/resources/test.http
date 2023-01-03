@@ -1,0 +1,4 @@
+GET http://localhost:8787/classify/list
+Accept: application/json
+
+###

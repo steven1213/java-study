@@ -1,0 +1,15 @@
+server:
+  port: 8280
+spring:
+  mqtt:
+#    broker: 'tcp://localhost:1884'
+#    broker: 'tcp://eqmx-dev.xiongmaoboshi.com:1883'
+#    broker: 'tcp://120.26.78.133:1883'
+    broker: 'tcp://emqx-dev.xiongmaoboshi.com:1883'
+    client-id: P10P4012263000013
+    username: P10P4012263000013 #drpanda_pad
+    password: 593f020b-4d37-4951-8341-aa43c7d7cfc3
+    timeout: 100
+    clean-session: true
+    keep-alive-interval: 30
+    default-topic: default
